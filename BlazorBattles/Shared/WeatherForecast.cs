@@ -6,8 +6,8 @@ namespace BlazorBattles.Shared
 {
     public class WeatherForecast
     {
-        //date or forecast
-        public DateTime Date { get; set; }
+		//date of the forecast
+		public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
 
